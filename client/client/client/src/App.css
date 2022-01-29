@@ -1,0 +1,29 @@
+
+.movies{
+  text-align: center;
+  margin-top: 100px;
+  color: coral;
+  font-style: italic;
+}
+
+.element{
+  text-align: left;
+  margin-left: 100px;
+}
+
+.form {
+  text-align: center;
+  margin-top: 100px;
+  color: darkblue;
+}
+.form1 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.products{
+  text-align: center;
+  margin-top: 100px;
+  color: coral;
+  font-style: italic;
+}
